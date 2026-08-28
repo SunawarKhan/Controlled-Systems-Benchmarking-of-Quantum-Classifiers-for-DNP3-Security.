@@ -1,0 +1,9 @@
+{
+  "train_dup_rows": 340,
+  "test_dup_rows": 99,
+  "cross_overlap": 200,
+  "cross_pct": 9.1,
+  "constant_cols": 11,
+  "n_train": 5126,
+  "n_test": 2200
+}

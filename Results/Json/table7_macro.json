@@ -1,0 +1,23 @@
+{
+  "macro": {
+    "accuracy": 0.6690909090909091,
+    "balanced_acc": 0.6690909090909091,
+    "macro_P": 0.7100606575127492,
+    "macro_R": 0.6690909090909091,
+    "macro_F1": 0.6479209633293528,
+    "F1w": 0.6479209633293528
+  },
+  "per_class_recall": {
+    "ARP_POISONING": 0.98,
+    "COLD_RESTART": 0.335,
+    "DISABLE_UNSOLICITED": 0.81,
+    "DNP3_ENUMERATE": 0.38,
+    "DNP3_INFO": 0.91,
+    "INIT_DATA": 0.87,
+    "MITM_DOS": 0.84,
+    "NORMAL": 0.465,
+    "REPLAY": 0.89,
+    "STOP_APP": 0.075,
+    "WARM_RESTART": 0.805
+  }
+}
