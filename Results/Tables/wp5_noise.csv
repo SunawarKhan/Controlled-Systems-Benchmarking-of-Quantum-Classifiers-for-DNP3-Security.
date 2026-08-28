@@ -1,0 +1,15 @@
+noise,level,accuracy
+clean,0.0,0.5663636363636364
+depolarizing,0.005,0.63
+depolarizing,0.02,0.64
+depolarizing,0.05,0.64
+amplitude_damping,0.005,0.65
+amplitude_damping,0.02,0.565
+amplitude_damping,0.05,0.55
+phase_damping,0.005,0.63
+phase_damping,0.02,0.63
+phase_damping,0.05,0.63
+readout_error,0.005,0.62
+readout_error,0.02,0.64
+readout_error,0.05,0.645
+combined_moderate,0.02,0.64

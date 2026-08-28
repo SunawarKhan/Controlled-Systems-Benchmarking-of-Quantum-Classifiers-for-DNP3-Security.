@@ -1,0 +1,5 @@
+Model,Qubits,Features,1q_gates,2q_gates
+VQC/angle,8,8,40,32
+angle-dense,8,16,48,32
+Amplitude-8,8,8,511,540
+Amplitude-79,8,79,489,540
